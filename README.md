@@ -20,6 +20,8 @@
 Każde zadanie ma treść opisaną w pliku `README.md` w swoim katalogu.
 Klikając poniższe linki, przejdziesz na stronę z podglądem instrukcji.
 
+### [Zadanie 1 - Podstawy programowania Java SE](./Ex1)
+
 ---
 ## Dodatki
 #### [Krótki tutorial jak rozpocząć pracę z repozytorium git](Extra/StartWithGit.md)
