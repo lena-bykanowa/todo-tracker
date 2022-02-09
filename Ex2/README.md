@@ -2,7 +2,7 @@
 ### Zakres: klasa, obiekt, konstruktor, getter, setter + git 
 
 
-## Zadanie "Bootcamp" cz.1 :mortar_board:
+## Zadanie "Bootcamp" :mortar_board:
 
 **Cel:**  
 Za pomocą klas w javie chcemy zamodelować prostą aplikację typu „indeks kursanta”. :green_book:  
