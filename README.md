@@ -22,6 +22,8 @@ Klikając poniższe linki, przejdziesz na stronę z podglądem instrukcji.
 
 ### [Zadanie 1 - Podstawy programowania Java SE](./Ex1)
 
+### [Zadanie 2 - Podstawy programowania Java SE](./Ex2)
+
 ---
 ## Dodatki
 #### [Krótki tutorial jak rozpocząć pracę z repozytorium git](Extra/StartWithGit.md)
