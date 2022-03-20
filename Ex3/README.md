@@ -60,4 +60,4 @@ Zadania oddane po terminie są oceniane na maksymalnie połowę punktów.
 #### Powodzenia!
 
 ### :clock12: Termin oddania:
-## Poniedziałek, 07.13.2022
+## Poniedziałek, 07.03.2022
