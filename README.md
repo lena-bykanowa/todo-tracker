@@ -26,6 +26,8 @@ Klikając poniższe linki, przejdziesz na stronę z podglądem instrukcji.
 
 ### [Zadanie 3 - OOP w Java](./Ex3)
 
+### [Zadanie 4 - Struktury danych w Java](./Ex4)
+
 ---
 ## Dodatki
 #### [Krótki tutorial jak rozpocząć pracę z repozytorium git](Extra/StartWithGit.md)
