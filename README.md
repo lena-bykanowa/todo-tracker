@@ -28,6 +28,8 @@ Klikając poniższe linki, przejdziesz na stronę z podglądem instrukcji.
 
 ### [Zadanie 4 - Struktury danych w Java](./Ex4)
 
+### [Zadanie 5 - Spring Boot - MVC - Thymeleaf](./Ex5)
+
 ---
 ## Dodatki
 #### [Krótki tutorial jak rozpocząć pracę z repozytorium git](Extra/StartWithGit.md)
