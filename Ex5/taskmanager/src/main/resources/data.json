@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Oddać pracę domową",
+    "category": "Study",
+    "priority": 2,
+    "due": "2022-05-23"
+  },
+  {
+    "description": "Złożyć mamie życzenia",
+    "category": "Home",
+    "priority": 1,
+    "due": "2022-05-26"
+  },
+  {
+    "description": "Złożyć wypowiedzenie",
+    "category": "Work",
+    "priority": 2,
+    "due": "2022-05-31"
+  }
+]
