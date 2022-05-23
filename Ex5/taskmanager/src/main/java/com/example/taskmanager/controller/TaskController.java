@@ -28,13 +28,13 @@ public class TaskController {
     }
 
     @PostMapping("/add-new-task")
-    public String addNewTask(@Valid @ModelAttribute Task task, BindingResult result) throws IOException {
+    public String addNewTask(@Valid @ModelAttribute Task task, BindingResult result, Model model) throws IOException {
 
         if (result.hasErrors()) {
-            System.out.println(result.getAllErrors().get(0).getDefaultMessage());
             return ("/add-new-task");
         }
         taskRepositoryService.addTask(task);
+        model.addAttribute("tasks", taskRepositoryService.getTaskList());
         return "/task-manager";
     }
 }

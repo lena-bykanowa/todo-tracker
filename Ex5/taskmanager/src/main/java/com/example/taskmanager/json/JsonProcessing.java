@@ -22,7 +22,6 @@ public class JsonProcessing {
         gsonBuilder.registerTypeAdapter(LocalDate.class, new LocalDateSerializer());
         Gson gson = gsonBuilder.setPrettyPrinting().create();
         String gsonToJson = gson.toJson(list);
-        System.out.println(gsonToJson);
         Files.write(path, gsonToJson.getBytes());
     }
 
